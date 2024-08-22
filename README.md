@@ -1,6 +1,3 @@
-[![MasterHead](https://png.pngtree.com/background/20240115/original/pngtree-3d-rendered-image-illustrating-the-concept-of-coding-and-programming-picture-image_7283662.jpg)](https://github.com/Mhmd769)
-
-
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi</h1>
 <h3 align="center">I am a Software Developer with hands-on experience in full-stack web development, skilled in React, JavaScript, C#, and ASP.NET, with a strong foundation in building user-focused applications and a proactive approach to learning new technologies, thriving in collaborative settings and delivering reliable, maintainable code.</h3>
 
