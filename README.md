@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Mahdi</h1>
-<h3 align="center">I am a Software Developer with hands-on experience in full-stack web development, skilled in React, JavaScript, C#, and ASP.NET, with a strong foundation in building user-focused applications and a proactive approach to learning new technologies, thriving in collaborative settings and delivering reliable, maintainable code.</h3>
+<h3 align="left">I am a Software Developer with hands-on experience in full-stack web development, skilled in React, JavaScript, C#, and ASP.NET, with a strong foundation in building user-focused applications and a proactive approach to learning new technologies, thriving in collaborative settings and delivering reliable, maintainable code.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1607799279861-4dd421887fb3?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D">
 
