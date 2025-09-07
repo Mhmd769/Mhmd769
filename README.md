@@ -1,14 +1,15 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Mohammad Mahdi
 
-  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Software+Developer;🚀+ASP.NET+Core+%26+React.js+Expert;🎯+Passionate+about+Clean+Architecture;⚡+Always+Learning+New+Technologies!)](https://git.io/typing-svg)
 
+---
 
 💻 **Full-Stack Software Developer** | Passionate about building scalable applications with clean architecture and modern web technologies.  
 🚀 Experienced in **ASP.NET Core, React.js, SQL, and cloud services**, with a strong foundation in problem-solving, design patterns, and microservice architectures.  
-🎯 Always eager to learn, innovate, and deliver impactful solutions
+🎯 Always eager to learn, innovate, and deliver impactful solutions.
 
 ---
+
 ## 🔗 Connect With Me
 <a href="https://linkedin.com/in/mhmdmahdi20">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,8 +20,10 @@
 <a href="https://github.com/Mhmd769">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 ---
-## ⚡ Languages and Tools
+
+## ⚡ Languages & Tools
 <div>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
